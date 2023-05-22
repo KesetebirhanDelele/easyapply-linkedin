@@ -21,6 +21,7 @@ I used the Chrome driver, you can download it [here](https://sites.google.com/ch
 3.2 conda create -n selenium.py python=3.10
 3.3 conda activate selenium.py
 3.4 code # press enter
+3.5 Save this vscode with Selenium environment in the working folder 
 3.5 conda install selenium
 
 ### Usage
